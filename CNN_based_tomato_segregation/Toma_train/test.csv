@@ -1,0 +1,19 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+R (12).jpg,800,600,RipenTomato,49,216,304,518
+R (12).jpg,800,600,RipenTomato,332,234,582,497
+R (12).jpg,800,600,RipenTomato,487,125,764,444
+R (6).jpg,800,600,RipenTomato,64,106,767,414
+R (6).jpg,800,600,RipenTomato,462,340,690,544
+R (91).jpg,800,600,RipenTomato,284,300,578,513
+R (91).jpg,800,600,RipenTomato,417,164,691,404
+R (91).jpg,800,600,RipenTomato,118,199,387,427
+rt (123).jpg,800,600,RottenTomato,168,313,604,535
+rt (26).jpg,800,600,RottenTomato,303,164,610,452
+u (145).jpg,800,600,UnripTomato,107,201,312,299
+u (145).jpg,800,600,UnripTomato,426,334,639,449
+u (145).jpg,800,600,UnripTomato,302,241,535,354
+u (145).jpg,800,600,HalfripTomato,525,71,720,185
+u (145).jpg,800,600,HalfripTomato,152,48,388,168
+u (30).jpg,800,600,UnripTomato,257,57,387,200
+u (30).jpg,800,600,UnripTomato,139,202,274,343
+u (30).jpg,800,600,UnripTomato,319,394,457,557
